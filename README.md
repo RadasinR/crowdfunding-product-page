@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [my github](https://github.com/RadasinR/crowdfunding-product-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://crowdfunding-product-page-teal-two.vercel.app/)
 
 ## My process
 
